@@ -1,4 +1,4 @@
-<img width="200" height="100" alt="row_health_logo_lg" src="https://github.com/user-attachments/assets/b3d021ba-fa65-4c38-b4e2-3290b27b31e5" />
+<img width="400" height="200" alt="row_health_logo_lg" src="https://github.com/user-attachments/assets/b3d021ba-fa65-4c38-b4e2-3290b27b31e5" />
 
 # Row Health Marketing Insights 
 An exploratory data analysis of Row Health's marketing campaign performance over 2019–2023, uncovering insights and recommendations for marketing stakeholders to inform future campaign strategy.
